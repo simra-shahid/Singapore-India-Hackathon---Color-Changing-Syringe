@@ -11,7 +11,6 @@ The existing solutions for ceasing reuse of syringes are too expensive and yield
 Our proposal, The Color-Changing Syringes, adds only up to 0.007$ to the syringe and is the most cost-effective/profitable solution today. We are using manufacturing techniques to make better syringes using a colour-dye system that turns blue if the syringe had been used. This is 10 times cheaper than the existing solutions proposed by the WHO. Using a photochromic dye that changes colour when exposed to light irreversibly, distinguishes a used from an unused syringe. The patient will know when a used syringe is being injected on him/her.
 
 Colour Changing Syringe 
-
 <video poster="images/Synringe.png" width="618" height="347" controls preload> 
     <source src="videos/SYRINGE.mp4" media="only screen and (min-device-width: 568px)"></source> 
 </video>
