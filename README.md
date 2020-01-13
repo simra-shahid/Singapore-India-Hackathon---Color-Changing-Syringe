@@ -2,7 +2,7 @@
 
 My team's pitch in Singapore India Hackathon. We were felicited by Prime Minister Narendra Modi and Education Minister of Singapore Ong Ye Kyun. 
 
-<p align="center"> <img src="images/PM.jpeg"  width="500" height="300"></img> </p>
+<p align="center"> <img src="images/PM.jpeg"  width="500" height="350"></img> </p>
 
 In many developing countries the malpractice of reusing medical waste, particularly syringes, is observed and administered worldwide each one bringing with it a risk of transmitting disease.
 
