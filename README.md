@@ -12,9 +12,9 @@ Our proposal, The Color-Changing Syringes, adds only up to 0.007$ to the syringe
 
 Colour Changing Syringe 
 
-<iframe width="420" height="315"
-  src="videos/SYRINGE.mp4">
-</iframe>
+<video poster="images/Synringe.png" width="618" height="347" controls preload> 
+    <source src="videos/SYRINGE.mp4" media="only screen and (min-device-width: 568px)"></source> 
+</video>
 
 Smart Dustbin
 <video src="videos/Dustbin.mp4" poster="images/dustbin.png" width="320" height="200" controls preload></video>
